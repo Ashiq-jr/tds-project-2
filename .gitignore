@@ -10,3 +10,4 @@ build/
 # environments
 .venv
 .vscode
+.vercel
